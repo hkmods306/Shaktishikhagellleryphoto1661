@@ -2783,6 +2783,12 @@
       "username": "Username",
       "password": "password",
       "expire_date": "2025-12-24"
+    },
+    {
+      "device_id": "ea7d7081830759ff",
+      "username": "Username",
+      "password": "password",
+      "expire_date": "2025-12-25"
     }
   ]
 }
