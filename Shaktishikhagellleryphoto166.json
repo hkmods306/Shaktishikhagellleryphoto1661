@@ -2813,6 +2813,12 @@
       "username": "Username",
       "password": "password",
       "expire_date": "2025-12-25"
+    },
+    {
+      "device_id": "4a8588a83d057b83",
+      "username": "Username",
+      "password": "password",
+      "expire_date": "2025-12-26"
     }
   ]
 }
